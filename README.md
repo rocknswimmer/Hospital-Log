@@ -4,3 +4,5 @@ Dad broke hip, so maintaining a log while in hospital to keep days git has been 
 day one
 day two
 day three
+
+home
